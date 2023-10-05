@@ -1,4 +1,4 @@
-voici le lien de la vidéo de ce qui va suivre  https://www.youtube.com/watch?v=ChkCQ6fCGoY
+voici le lien de déploiement https://ounissasadaoui.github.io/Asteroids/
 the canvas thingy is a big object in which you can draw stuff
 
 
